@@ -1,0 +1,30 @@
+E:\Seminars\Task_21\bin\Debug\net6.0\Task_21.exe
+E:\Seminars\Task_21\bin\Debug\net6.0\Task_21.deps.json
+E:\Seminars\Task_21\bin\Debug\net6.0\Task_21.runtimeconfig.json
+E:\Seminars\Task_21\bin\Debug\net6.0\Task_21.dll
+E:\Seminars\Task_21\bin\Debug\net6.0\Task_21.pdb
+E:\Seminars\Task_21\obj\Debug\net6.0\Task_21.csproj.AssemblyReference.cache
+E:\Seminars\Task_21\obj\Debug\net6.0\Task_21.GeneratedMSBuildEditorConfig.editorconfig
+E:\Seminars\Task_21\obj\Debug\net6.0\Task_21.AssemblyInfoInputs.cache
+E:\Seminars\Task_21\obj\Debug\net6.0\Task_21.AssemblyInfo.cs
+E:\Seminars\Task_21\obj\Debug\net6.0\Task_21.csproj.CoreCompileInputs.cache
+E:\Seminars\Task_21\obj\Debug\net6.0\Task_21.dll
+E:\Seminars\Task_21\obj\Debug\net6.0\refint\Task_21.dll
+E:\Seminars\Task_21\obj\Debug\net6.0\Task_21.pdb
+E:\Seminars\Task_21\obj\Debug\net6.0\Task_21.genruntimeconfig.cache
+E:\Seminars\Task_21\obj\Debug\net6.0\ref\Task_21.dll
+E:\Programming training in GB\VSCode\Seminars\Task_21\bin\Debug\net6.0\Task_21.exe
+E:\Programming training in GB\VSCode\Seminars\Task_21\bin\Debug\net6.0\Task_21.deps.json
+E:\Programming training in GB\VSCode\Seminars\Task_21\bin\Debug\net6.0\Task_21.runtimeconfig.json
+E:\Programming training in GB\VSCode\Seminars\Task_21\bin\Debug\net6.0\Task_21.dll
+E:\Programming training in GB\VSCode\Seminars\Task_21\bin\Debug\net6.0\Task_21.pdb
+E:\Programming training in GB\VSCode\Seminars\Task_21\obj\Debug\net6.0\Task_21.csproj.AssemblyReference.cache
+E:\Programming training in GB\VSCode\Seminars\Task_21\obj\Debug\net6.0\Task_21.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming training in GB\VSCode\Seminars\Task_21\obj\Debug\net6.0\Task_21.AssemblyInfoInputs.cache
+E:\Programming training in GB\VSCode\Seminars\Task_21\obj\Debug\net6.0\Task_21.AssemblyInfo.cs
+E:\Programming training in GB\VSCode\Seminars\Task_21\obj\Debug\net6.0\Task_21.csproj.CoreCompileInputs.cache
+E:\Programming training in GB\VSCode\Seminars\Task_21\obj\Debug\net6.0\Task_21.dll
+E:\Programming training in GB\VSCode\Seminars\Task_21\obj\Debug\net6.0\refint\Task_21.dll
+E:\Programming training in GB\VSCode\Seminars\Task_21\obj\Debug\net6.0\Task_21.pdb
+E:\Programming training in GB\VSCode\Seminars\Task_21\obj\Debug\net6.0\Task_21.genruntimeconfig.cache
+E:\Programming training in GB\VSCode\Seminars\Task_21\obj\Debug\net6.0\ref\Task_21.dll
